@@ -6,7 +6,7 @@
 - 비슷한 태스크(Regression)에 사용할수 있는 machine learning/deep learning 코드 베이스라인입니다.  
 - 예제 대회 : LG 자율주행 센서 안테나 성능 예측.
 
-* [자율주행]](https://arxiv.org/pdf/2101.06804)
+* [자율주행]](https://dacon.io/competitions/official/235927/)
 ---
 
 ## 1. Data
