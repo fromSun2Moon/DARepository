@@ -11,11 +11,19 @@ Subject : Ache index from biosignal
 ## Model Architecture
 - 1-D convolutional layers and linear layers with activations.
 ```
-main.py
-data.py
-model.py 
-train.py
-utils.py 
+.
+├── data.py
+├── main.py
+├── model.py
+├── __pycache__
+│   ├── data.cpython-37.pyc
+│   ├── main.cpython-37.pyc
+│   ├── model.cpython-37.pyc
+│   ├── train.cpython-37.pyc
+│   └── utils.cpython-37.pyc
+├── train.py
+└── utils.py
+
 ```
 
 ## Requirements
